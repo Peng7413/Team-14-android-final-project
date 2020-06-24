@@ -1,0 +1,2 @@
+rootProject.name='grandfinal'
+include ':app'
